@@ -1,0 +1,7 @@
+matplotlib
+pandas
+numpy
+tqdm
+scikit-learn
+beautifulsoup4
+finance-calendars
